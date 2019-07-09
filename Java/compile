@@ -1,0 +1,1 @@
+javac -Xlint Main.java CurrencyNode.java Graph.java Tuple.java

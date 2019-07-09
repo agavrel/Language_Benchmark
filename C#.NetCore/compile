@@ -1,0 +1,1 @@
+dotnet publish -c Release --self-contained -r linux-x64 --framework netcoreapp2.2 -o csharp_binary
